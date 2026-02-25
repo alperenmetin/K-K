@@ -1,0 +1,2 @@
+class Karakter(Actor):
+    int hiz = 500;
